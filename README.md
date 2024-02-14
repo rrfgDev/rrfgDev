@@ -45,14 +45,14 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer 📈. 
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=rrfsDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=rrfgDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrfsDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrfgDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
@@ -60,7 +60,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer 📈. 
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rrfsDev&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rrfgDev&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
@@ -76,7 +76,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer 📈. 
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=rrfsDev&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=rrfgDev&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -87,7 +87,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer 📈. 
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/rrfsDev/count.svg"
+    src="https://profile-counter.glitch.me/rrfgDev/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
