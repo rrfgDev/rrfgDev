@@ -32,7 +32,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer 📈. 
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<a href="https://www.linkedin.com/in/[paulo-ricardo-santos-3a557a208](https://www.linkedin.com/in/ryan-gouvêa/)/" title="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/ryan-gouvêa/)/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://wa.me/+5531992028757" title="WhatsApp" target="_blank">
