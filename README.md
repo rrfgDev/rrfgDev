@@ -5,12 +5,12 @@
 <p align="left"> 
   Sou Mineiro, tenho 18 anos e sou <strong>Desenvolvedor Back-End</strong>.
 
-Faz 3 anos que estou na área da programação, passei por 3 empresas diferentes e obtive conhecimentos absurdos, sou uma pessoa muito dedicada em tudo o que faço. Atualmente trabalho em uma fintech e estou cursando engenharia de software, estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+Faz 3 anos que estou na área da programação💻, passei por varias empresas diferentes e obtive conhecimentos absurdos, sou uma pessoa muito dedicada em tudo o que faço. Atualmente trabalho como freelancer e estou cursando engenharia de software 👨‍🎓, estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
+Estou sempre em busca de desafios e oportunidades para aprender e crescer 📈. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor 😁.
 
 
 <h2 align="left">
- 🦄 Stacks:
+ 🦄🤩 Stacks:
 </h2>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -19,7 +19,15 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Firebase](	https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![Pycharm](	https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![JavaScritp](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
